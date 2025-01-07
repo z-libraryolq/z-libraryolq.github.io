@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>z-library镜像网址</title>
+  
+  <subtitle>关于软件、chrome插件、编程、知识、Z-library、安娜的档案、科技前沿的日志</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-01-02</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>z-library镜像网址</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Z-library入口/国内最新官网地址及镜像网址（持续更新）</title>
+    <link href="http://example.com/p/z-library.html"/>
+    <id>http://example.com/p/z-library.html</id>
+    <published>2025-01-02</published>
+    <updated>2025-01-02</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Z-Library（通常被称为 Z-Lib，最初名为 BookFinder）是全球范围内规模最大的数字图书馆之一，收录了超过1046万册图书和高达8484万篇学术文章。自2009年起，该平台便致力于向公众提供免费的电子书籍资源。然而，由于多次受到限制，从2024年5月开始，Z-Lib在国内的宣传途径被迫中断，这导致了大量假冒网站（欺诈性网站）的涌现。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="z-library镜像网址" scheme="http://example.com/categories/z-library%E6%95%B0%E5%AD%97%E5%9B%BE%E4%B9%A6%E9%A6%86/"/>
+    
+    
+    <category term="z-library" scheme="http://example.com/tags/z-library/"/>
+    
+  </entry>
+  
+</feed>
